@@ -1,0 +1,14 @@
+/home/coder/Week2OOP/bin/Debug/net8.0/Week2OOP
+/home/coder/Week2OOP/bin/Debug/net8.0/Week2OOP.deps.json
+/home/coder/Week2OOP/bin/Debug/net8.0/Week2OOP.runtimeconfig.json
+/home/coder/Week2OOP/bin/Debug/net8.0/Week2OOP.dll
+/home/coder/Week2OOP/bin/Debug/net8.0/Week2OOP.pdb
+/home/coder/Week2OOP/obj/Debug/net8.0/Week2OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/Week2OOP/obj/Debug/net8.0/Week2OOP.AssemblyInfoInputs.cache
+/home/coder/Week2OOP/obj/Debug/net8.0/Week2OOP.AssemblyInfo.cs
+/home/coder/Week2OOP/obj/Debug/net8.0/Week2OOP.csproj.CoreCompileInputs.cache
+/home/coder/Week2OOP/obj/Debug/net8.0/Week2OOP.dll
+/home/coder/Week2OOP/obj/Debug/net8.0/refint/Week2OOP.dll
+/home/coder/Week2OOP/obj/Debug/net8.0/Week2OOP.pdb
+/home/coder/Week2OOP/obj/Debug/net8.0/Week2OOP.genruntimeconfig.cache
+/home/coder/Week2OOP/obj/Debug/net8.0/ref/Week2OOP.dll
